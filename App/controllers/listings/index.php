@@ -1,5 +1,7 @@
 <?php
 
+use Framework\Database;
+
 // require basePath('helpers.php');
 $config = require basePath('config/db.php');
 $db = new Database($config);

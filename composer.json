@@ -1,0 +1,16 @@
+{
+  "name": "israel4u/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Shola Israel",
+      "email": "israeloluwasholao@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
